@@ -3,13 +3,14 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.page1{
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin: auto;
-    padding: 10%;
+.page2{
+  text-align: center;
+  font-size: 65px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  padding: 10%;
 }
 
 .topnav {
